@@ -8,7 +8,7 @@
 <h4 align="center">
   <a href="#-palettes">Palettes</a>
    ·
-  <a href="#-Contribue">contribute</a>
+  <a href="#-Contribute">contribute</a>
   ·
   <a href="#-install">install</a>
 

@@ -29,7 +29,10 @@
 
 ### 🎨 Palettes
 
-
+- [Rust](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.rs)
+- [C](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.c)
+- [Lua](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.lua)
+- [Ruby](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.rb)
 
 ### 🥰 Contribute
 

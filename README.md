@@ -8,9 +8,9 @@
 <h4 align="center">
   <a href="#-palettes">Palettes</a>
    ·
-  <a href="#-showcase">contribute</a>
+  <a href="#-Contribue">contribute</a>
   ·
-  <a href="#-showcase">install</a>
+  <a href="#-install">install</a>
 
 </h4>
 

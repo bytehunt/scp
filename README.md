@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://0x0.st/oFcf.png" alt="demo"/><br/>
+	<img src="https://user-images.githubusercontent.com/90331517/214882602-1b885514-889a-493a-9bf3-53378bacea09.png" alt="demo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 🎨 Show off your soothing color palette ✨
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>

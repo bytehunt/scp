@@ -12,7 +12,7 @@
   ·
   <a href="#-Contribute">contribute</a>
   ·
-  <a href="#-showcase">showcase</a>
+  <a href="#-Gratitute">Gratitute</a>
     
 
 </h4>
@@ -49,7 +49,9 @@ Installing this program on your system will depend on the specific operating sys
 	
 We welcome everyone to contribute by us following the standard way. one could write a similar program in their preferred language that accepts an input symbol and uses loops to print the symbol in different colors. Depending on the language, `(Default one should be standard icon of lang)` the method for setting the color of the text being printed may be different `(e.g. using libraries or built-in functions)`. Additionally, the method for checking for an input symbol may also be different, but the overall logic of the program should be the same like [these ones](/src).
 
-### 💫 showcase
+### ❤️‍🩹 Gratitute 
+
+A big thank to each and everyone out there, helping / contributing to us.
 
 <p align="center">
 	Copyright &copy; 2023 <a href="https://github.com/BinaryBrainiacs" target="_blank">BinaryBrainiacs rocks 😎 </a>

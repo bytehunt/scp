@@ -13,6 +13,7 @@
   <a href="#-Contribute">contribute</a>
   ·
   <a href="#-showcase">showcase</a>
+    
 
 </h4>
 
@@ -31,10 +32,14 @@
 
 ### 🎨 Palettes
 
-- [Rust](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.rs)
-- [C](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.c)
-- [Lua](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.lua)
-- [Ruby](https://github.com/BinaryBrainiacs/scp/blob/main/src/scp.rb)
+- [Rust](/src/scp.rs)
+- [C](/src/scp.c)
+- [Lua](/src/scp.lua)
+- [Ruby](/src/scp.rb)
+- [Go](/src/scp.go)
+- [sh](/src/scp.sh)
+
+
 	
 ### 🚀 install
 

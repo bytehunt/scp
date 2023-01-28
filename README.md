@@ -38,6 +38,7 @@
 - [Ruby](/src/scp.rb)
 - [Go](/src/scp.go)
 - [sh](/src/scp.sh)
+- [js](/src/scp.js)
 
 
 	
@@ -47,7 +48,7 @@ Installing this program on your system will depend on the specific operating sys
 
 ### 🥰 Contribute
 	
-We welcome everyone to contribute by us following the standard way. one could write a similar program in their preferred language that accepts an input symbol and uses loops to print the symbol in different colors. Depending on the language, `(Default one should be standard icon of lang)` the method for setting the color of the text being printed may be different `(e.g. using libraries or built-in functions)`. Additionally, the method for checking for an input symbol may also be different, but the overall logic of the program should be the same like [these ones](/src).
+We welcome everyone to contribut us by following the standard way. one could write a similar program in their preferred language that accepts an input symbol and uses loops to print the symbol in different colors. Depending on the language, `(Default one should be standard icon of lang)` the method for setting the color of the text being printed may be different `(e.g. using libraries or built-in functions)`. Additionally, the method for checking for an input symbol may also be different, but the overall logic of the program should be the same like [these ones](/src).
 
 ### ❤️‍🩹 Gratitute 
 
